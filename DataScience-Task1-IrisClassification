@@ -1,0 +1,12 @@
+# Iris Flower Classification
+
+## About
+This project uses machine learning to classify Iris flowers into three species.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook 
